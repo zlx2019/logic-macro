@@ -1,2 +1,3 @@
-# game_script
-罗技鼠标宏脚本
+# logic macro
+
+关于罗技鼠标的宏脚本
